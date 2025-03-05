@@ -1,2 +1,2 @@
-# CSCI3251_LamKwanTung
-This is the project of Lam Kwan Tung.
+Hello, I’m Lam Kwan Tung!
+My Student number is 1155212333!
